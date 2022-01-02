@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import RMDBLogo from "../../images/reactLogo.svg";
-import TMDBLogo from "../../images/tmdbLogo.svg";
+import TMDBLogo from "../../images/tmdb_logo.svg";
 
 import { Wrapper, Content, LogoImg, TMDBLogoImg } from "./Header.styles";
 

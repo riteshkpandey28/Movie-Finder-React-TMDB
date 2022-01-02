@@ -11,6 +11,7 @@ import BreadCrumb from "./BreadCrumb";
 import MovieInfo from "./MovieInfo";
 import MovieInfoBar from "./MovieInforBar";
 import Actor from "./Actor";
+import Footer from "./Footer";
 
 // hook
 import { useMovieFetch } from "../hooks/useMovieFetch";
@@ -48,6 +49,7 @@ const Movie = () => {
           />
         ))}
       </Grid>
+      <Footer />
     </>
   );
 };
