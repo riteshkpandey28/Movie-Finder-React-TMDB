@@ -1,5 +1,3 @@
-import react from "react";
-
 // styles
 import { Wrapper, Image } from "./Actor.styles";
 

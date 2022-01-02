@@ -1,5 +1,3 @@
-import react from "react";
-
 // styles
 import { Wrapper } from "./Button.styles";
 

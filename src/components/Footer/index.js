@@ -1,5 +1,3 @@
-import react from "react";
-
 // icons
 import { SocialIcon } from "react-social-icons";
 

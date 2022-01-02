@@ -1,5 +1,3 @@
-import react from "react";
-
 // components
 import Thumb from "../Thumb";
 
