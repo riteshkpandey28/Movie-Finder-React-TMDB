@@ -2,6 +2,7 @@
   "name": "movie-finder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://stupiloid-coder.github.io/Movie-Finder-React-TMDB/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
